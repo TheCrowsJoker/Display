@@ -1,0 +1,32 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    background: #ccc;
+    font-size: 1rem;
+}
+.header {
+    background: #999;
+    padding: 5px;
+    border-radius: 3px;
+}
+.datetime {
+    display: inline-block;
+}
+.info {
+    float: right;
+    display: inline-block;;
+    text-align: right;
+    font-size: 1.5rem;
+}
+.cb {
+    clear: both;
+}
+#time {
+    color: #fff;
+    font-size: 3.4rem;
+}
+#date {
+    color: #ddd;
+    font-size: 2.3rem;
+}
